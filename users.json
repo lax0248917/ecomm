@@ -1,5 +1,22 @@
 [
   {
-    "email": "test@test.com"
+    "email": "superdude@superdude.com",
+    "password": "password",
+    "id": "b01228a4"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "password",
+    "id": "6cd8a38f"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "e5e3b766dae6bd5e1b7d00820ee6656c07e928899622da946c37f010b1e2a44fd6b0cbe2be5c9222e4226944b68740c7f7a4b7b214e8f95395d4086d8fb27817.0f46bc93686227c3",
+    "id": "6d816d83"
+  },
+  {
+    "email": "test4@test.com",
+    "password": "3ed89586f97196e2242df1a97be9c825dae3f8187c6985ca6b7125806c2aeaaef3a0773a5128a28d3d743e7b3d0d4fdca1c1043d94c50990b72b9879eaca5266.f37b2e6d663c423f",
+    "id": "0605e8cb"
   }
 ]
